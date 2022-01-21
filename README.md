@@ -12,3 +12,4 @@ Ejercicios de git
 ![image_3](https://user-images.githubusercontent.com/98004867/150475511-5f204269-a310-481d-b31a-a60f6d7daa7c.png)
 
 
+![networks](https://user-images.githubusercontent.com/98004867/150475964-9b4f2bfc-445e-498a-85d9-3cbf24a4c1bd.png)
